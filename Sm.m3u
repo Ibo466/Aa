@@ -4,6 +4,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
+http://119.156.26.155:8000/play/a06p/index.m3u8
 http://perfecttv.net:8080/Perfecttv/Perfecttv/14
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=14505&deviceMac=00:1A:79:A7:53:75
 
