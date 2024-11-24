@@ -4,6 +4,8 @@
 https://myindex2.fixtv.xyz/api/raw/?path=/Conquer.Lahad.Datu.2024.1080p.NF.WEB-DL.DDP5.1.H.264-ABE.mkv
 
 
+#EXTINF:-1 type="movie"  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lebILB4XqI60dUkJWYYsnaTm24D.jpg" group-title="Malay",Ipar Adalah Maut (2024)
+http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1562.mp4
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
