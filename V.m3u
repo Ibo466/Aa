@@ -18,6 +18,10 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fd635c11-1aef-5cd8-aa52-94a125f6dfa6/default_primary.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2047d7067eac381a0b297153a9680c10:e8a1348af556a2438b27d3f0dcf142b2
+#EXTINF:-1 type="movie"  tvg-logo="https://perfecttv.net/first/gengjin2024.jpg" group-title="Malay",Geng Jin 2024
+http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/85501dcc-4012-5a6e-9148-fe88cb7ae190/default_primary.mpd
 
 =VOD Malay=
 
